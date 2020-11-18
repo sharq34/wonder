@@ -1,0 +1,10 @@
+# Project exclude paths
+/kernel/target/
+/spider/target/
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+out/
